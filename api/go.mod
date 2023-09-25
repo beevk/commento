@@ -16,8 +16,8 @@ require (
 	github.com/microcosm-cc/bluemonday v1.0.0
 	github.com/op/go-logging v0.0.0-20160211212156-b2cb9fa56473
 	github.com/russross/blackfriday v1.5.1
-	golang.org/x/crypto v0.0.0-20180808211826-de0752318171
-	golang.org/x/net v0.0.0-20180811021610-c39426892332
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20180724155351-3d292e4d0cdc
 	google.golang.org/appengine v1.1.0 // indirect
 )
